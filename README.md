@@ -1,8 +1,8 @@
 ### Olá, eu sou o Vitor Siqueira 👋
 
 <a href="https://github.com/siqueiravitor">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siqueiravitor&show_icons=true&include_all_commits=true&count_private=true&custom_title=Vitor's GitHub Stats&bg_color=45,102326,1a2737,03111e&text_color=01dfc2&icon_color=01dfc2&title_color=00a7d5&border_color=01dfc2"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siqueiravitor&layout=compact&langs_count=8&bg_color=45,102326,1a2737,03111e&text_color=01dfc2&icon_color=01dfc2&title_color=00a7d5&border_color=01dfc2"&/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siqueiravitor&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,102326,1a2737,03111e&text_color=01dfc2&icon_color=01dfc2&title_color=00a7d5"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siqueiravitor&layout=compact&langs_count=8&bg_color=45,102326,1a2737,03111e&text_color=01dfc2&icon_color=01dfc2&title_color=00a7d5"&/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
