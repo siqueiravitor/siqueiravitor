@@ -1,7 +1,7 @@
 ### Olá, eu sou o Vitor Siqueira 👋
 
 <a href="https://github.com/siqueiravitor">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=siqueiravitor&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&custom_title=Vitor's GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=siqueiravitor&show_icons=true&include_all_commits=true&count_private=true&custom_title=Vitor's GitHub Stats&bg_color=45,96ffff,00ffff"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siqueiravitor&layout=compact&langs_count=8&theme=great-gatsby&custom_title=Most Used Languages"/>
 <div>
 <div style="display: inline_block"><br>
