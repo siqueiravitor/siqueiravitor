@@ -1,8 +1,8 @@
 ### Olá, eu sou o Vitor Siqueira 👋
 
 <a href="https://github.com/siqueiravitor">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siqueiravitor&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siqueiravitor&layout=compact&langs_count=8&theme=highcontrast"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=siqueiravitor&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&custom_title=Vitor's GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siqueiravitor&layout=compact&langs_count=8&theme=great-gatsby&custom_title=Most Used Languages"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
