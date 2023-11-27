@@ -2,11 +2,11 @@
 
 <a href="https://github.com/siqueiravitor">
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=siqueiravitor&show_icons=true&include_all_commits=true&count_private=true&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9&bg_color=0d1117&border_color=f000" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siqueiravitor&show_icons=true&include_all_commits=true&count_private=true&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9&bg_color=0d1117&border_color=f000" /> 
+<!--   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siqueiravitor&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,102326,1a2737,03111e&text_color=01dfc2&icon_color=01dfc2&title_color=00a7d5"/> -->
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siqueiravitor&layout=compact&langs_count=8&title_color=00aaff&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
-<!--   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siqueiravitor&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,102326,1a2737,03111e&text_color=01dfc2&icon_color=01dfc2&title_color=00a7d5"/> -->
 <div>
 <div style="display: inline_block" align='center'><br>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
