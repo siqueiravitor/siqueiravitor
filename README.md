@@ -21,7 +21,7 @@
   
 ### About me:
 
-✨ Greetings! I'm Vitor Siqueira, a passionate FullStack Developer on a journey fueled by curiosity and a love for web programming. My adventure began in 2020, starting as a wide-eyed Web Developer intern, I've embraced the challenges and triumphs that come with the digital realm. Today, as a seasoned System Development Analyst, I thrive on the ever-present challenge of growth and find immense joy in navigating the ever-evolving landscape of this dynamic field. <br> Join me as I continue my story of web development! ✨
+✨ Greetings! I'm Vitor Siqueira, a passionate FullStack Developer on a journey fueled by curiosity and a love for web programming. My adventure began in 2020, starting as a wide-eyed Web Developer intern, I've embraced the challenges and triumphs that come with the digital realm. Today, as a seasoned System Development Analyst, I thrive on the ever-present challenge of growth and find immense joy in navigating the ever-evolving landscape of this dynamic field. <br> Join me as I continue my web development story! ✨
 
 <br />
 
