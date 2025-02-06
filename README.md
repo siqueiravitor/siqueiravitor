@@ -58,4 +58,4 @@ Feel free to see some of my work at <a href='https://vitorsiqueira.com' target='
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
-    
+  
