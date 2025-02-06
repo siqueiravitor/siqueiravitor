@@ -53,7 +53,7 @@ Feel free to see some of my work at <a href='https://vitorsiqueira.com' target='
 <div align='center'>
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siqueira-vitor/)
-  [![Email](https://img.shields.io/badge/email-%230077B5.svg?style=for-the-badge&logo=gmail)](contato@siqueiravitor.com)
+  [![Email](https://img.shields.io/badge/email-%230077B5.svg?style=for-the-badge&logo=gmail)](mailto:contato@siqueiravitor.com)
   
 </div>
 
