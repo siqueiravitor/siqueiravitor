@@ -22,26 +22,30 @@
 </div>
 
 ### ✨ About me:
-Greetings! 👋 I'm Vitor Alvarenga de Siqueira, a Systems Development Analyst and passionate web developer. I have experience working with a wide range of technologies, primarily focused on creating solutions that streamline processes and enhance user experiences.
+Hi there! 👋 I'm Vitor Alvarenga de Siqueira, a full-stack developer with a backend focus and solid experience in Laravel, Node.js, and system integrations via RESTful APIs.
+<br>
+I’ve worked on projects ranging from legacy system modernization to building scalable, event-driven applications, always applying best practices like Clean Architecture, SOLID, DDD, and modern CI/CD workflows.
 
-#### 🔧 Technologies I work with: <br>
+
+#### 💻 Tech Stack: <br>
 <ul>
   <li>Back-end: PHP (7/8), Node.js, Laravel</li>
   <li>Front-end: JavaScript, React, React Native</li>
-  <li>Databases: MySQL, Oracle, Firebase</li>
-  <li>Tools: Git, CI/CD Automation</li>
-  <li>Other skills: RESTful APIs, Microservices, Agile Methodologies</li>
+  <li>Databases: MySQL, Oracle</li>
+  <li>DevOps & Tools: Git, CI/CD Automation, Jenkins, Docker, GCP</li>
+  <li>Other: REST APIs, RabbitMQ, Swagger, Microservices, Agile/Scrum</li>
 </ul>
 
-#### 🌱 What I'm currently up to:
-I’m working as a Systems Development Analyst, where I lead projects to automate workflows, optimize operations, and deliver robust, scalable applications. Additionally, I take on freelance projects to further hone my skills and work on new, innovative solutions.
+#### 🌱 What I'm Working On:
+I'm currently working as a Mid-level Software Engineer at Agile Corp, where I lead the modernization of legacy systems and implement modern solutions for automation and integration. <br>
+I also take on freelance and side projects to keep learning and exploring new technologies.
 
-#### 🚀 Why I code:
-Coding is my passion. I love solving problems, learning new technologies and developing my skills by contributing to projects that make a meaningful impact.
+#### 🚀 What Drives Me:
+I’m passionate about delivering real impact through clean, scalable code. I value collaboration, continuous improvement, and building well-structured products that are easy to maintain and meaningful for users.
 
 ### 📫 How to reach me:
-Feel free to see some of my work at <a href='https://vitorsiqueira.com' target='_blank'>vitorsiqueira.com</a>.
-
+Feel free to see some of my work at <a href='https://vitorsiqueira.com' target='_blank'>vitorsiqueira.com</a> <br>
+Reach me at <a href='mailto:contact@vitorsiqueira.com' target='_blank'>contact@vitorsiqueira.com</a>!
 <br />
 
 
