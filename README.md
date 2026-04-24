@@ -22,9 +22,9 @@
 </div>
 
 ### ✨ About me:
-Hi there! 👋 I'm Vitor Alvarenga de Siqueira, a full-stack developer with a backend focus and solid experience in Laravel, Node.js, and system integrations via RESTful APIs.
+I'm Vitor Alvarenga de Siqueira, a Backend Software Engineer with 5+ years of experience building scalable systems using PHP, Laravel, and Node.js.
 <br>
-I’ve worked on projects ranging from legacy system modernization to building scalable, event-driven applications, always applying best practices like Clean Architecture, SOLID, DDD, and modern CI/CD workflows.
+I specialize in designing REST APIs, modernizing legacy systems, and implementing asynchronous and event-driven architectures. I focus on writing clean, maintainable code and building systems that scale reliably in production.
 
 
 #### 💻 Tech Stack: <br>
@@ -32,16 +32,30 @@ I’ve worked on projects ranging from legacy system modernization to building s
   <li>Back-end: PHP (7/8), Node.js, Laravel</li>
   <li>Front-end: JavaScript, React, React Native</li>
   <li>Databases: MySQL, Oracle</li>
-  <li>DevOps & Tools: Git, CI/CD Automation, Jenkins, Docker, GCP</li>
-  <li>Other: REST APIs, RabbitMQ, Swagger, Microservices, Agile/Scrum</li>
+  <li>Messaging & Async Processing: RabbitMQ, BullMQ, Laravel Queues</li>
+  <li>Architecture & Concepts: REST APIs, Microservices, Event-driven systems, Clean Architecture, SOLID, Domain-Driven Design (DDD)</li>
+  <li>DevOps & Tools: Docker, Jenkins (CI/CD), Git / GitHub, Linux (Nginx / Apache), GCP (basic)</li>
 </ul>
 
 #### 🌱 What I'm Working On:
-I'm currently working as a Mid-level Software Engineer at Agile Corp, where I lead the modernization of legacy systems and implement modern solutions for automation and integration. <br>
-I also take on freelance and side projects to keep learning and exploring new technologies.
+Currently working as a Software Engineer at Agile Corp, focusing on:
+<ul>
+  <li>Modernizing legacy systems using modular architecture</li>
+  <li>Building scalable APIs and integrations</li>
+  <li>Implementing asynchronous workflows using queues</li>
+  <li>Improving system performance and reliability</li>
+</ul>
 
 #### 🚀 What Drives Me:
-I’m passionate about delivering real impact through clean, scalable code. I value collaboration, continuous improvement, and building well-structured products that are easy to maintain and meaningful for users.
+I enjoy solving real-world problems through backend engineering.
+<ul>
+  <li>System design</li>
+  <li>Performance optimization</li>
+  <li>Scalable architectures</li>
+  <li>Automation and distributed systems</li>
+</ul>
+
+I value clean code, collaboration, and building systems that are easy to maintain and evolve.
 
 ### 📫 How to reach me:
 Feel free to see some of my work at <a href='https://vitorsiqueira.com' target='_blank'>vitorsiqueira.com</a> <br>
